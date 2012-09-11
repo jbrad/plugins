@@ -11,14 +11,3 @@ log-deprecated-notices/*
 monster-widget/*
 rewrite-rules-inspector/*
 debug-bar-cron/*
-akismet/admin.php
-akismet/akismet.css
-akismet/akismet.gif
-akismet/akismet.js
-akismet/akismet.php
-akismet/index.php
-akismet/legacy.php
-akismet/readme.txt
-akismet/widget.php
-hello.php
-index.php
